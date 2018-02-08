@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1435125816 source:d:\c\c\code force\problem set\548d\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1448635541 source:d:\c\c\code force\problem set\a. vitaliy and pie\main.cpp
+	<iostream>
+	<cstdio>
+	<string>
+	<cstring>
+
