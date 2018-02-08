@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1446657165 source:d:\c\c\code force\codeforces round #329 (div. 2)\a\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

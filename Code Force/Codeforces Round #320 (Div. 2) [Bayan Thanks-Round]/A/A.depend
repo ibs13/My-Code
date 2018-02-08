@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1442420269 source:d:\c\c\code force\codeforces round #320 (div. 2) [bayan thanks-round]\a\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cmath>
+	<algorithm>
+

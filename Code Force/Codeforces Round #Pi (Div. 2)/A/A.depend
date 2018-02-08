@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1438792386 source:d:\c\c\code force\codeforces round #pi (div. 2)\a\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+

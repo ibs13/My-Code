@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1439486424 source:d:\c\c\code force\a\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+

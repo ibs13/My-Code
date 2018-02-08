@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1441906064 source:c:\users\username\desktop\c\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+
+1441960775 source:d:\c\c\code force\codeforces round #319 (div. 2)\c\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+
